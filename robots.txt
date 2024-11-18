@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /publisher/
+Allow: /uploads/
+Allow: /site_images/
+Disallow: /affliate/
+Disallow: /admin/
+ 
+Sitemap: https://dreamaff.com/sitemap.xml
